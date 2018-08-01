@@ -1,7 +1,7 @@
 from keras.layers import Lambda, Conv1D, MaxPooling2D, Dropout, Dense, Flatten
+from keras.callbacks import ModelCheckpoint, TensorBoard
 from sklearn.model_selection import train_test_split
 from utils import INPUT_SHAPE, batch_generator
-from keras.callbacks import ModelCheckpoint, TensorBoard
 from keras.models import Sequential
 from keras.optimizers import Adam
 import tensorflow as tf
