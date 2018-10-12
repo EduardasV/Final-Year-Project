@@ -25,3 +25,7 @@ Unfortunately, you will have to run the Unity App inside Unity as the .exe had p
 1. run the unity project by pressing the play button  
 1. make sure LB.h5, RB.h5, TLB.h5, TRB.h5 files are inside the python folder
 1. run the network.py file in python folder inside IDLE for python 3 
+
+
+---
+[Example of the project in a YouTube video](https://www.youtube.com/watch?v=SCyNrJgGW8w)
