@@ -19,7 +19,9 @@ The AI consists of 4 different neural networks (turn left, turn right, left lane
 ## How to run it
 
 To run this application you will need to have python 3 and Unity3D 2017.* installed.
-Unfortunately, you will have to run the Unity App inside Unity as the .exe had performance issues when saving images.  
+Unfortunately, you will have to run the Unity App inside Unity as the .exe had performance issues when saving images. 
+1. clone the repository
+1. open the project in unity
 1. run the unity project by pressing the play button  
 1. make sure LB.h5, RB.h5, TLB.h5, TRB.h5 files are inside the python folder
-1. go to python folder and run the network.py file 
+1. run the network.py file in python folder inside IDLE for python 3 
