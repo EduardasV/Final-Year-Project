@@ -1,4 +1,4 @@
-# Final-Year-Project 
+# Final-Year-Project  
 ## Purpose of the project 
 The purpose of this project was to create an AI which would follow simple navigation instructions and drive around the town while maintaining the position in the middle of the lane. When the AI is given the direction that it needs to turn on the next junction it would analyse the road, when it sees an opportunity to turn it would then turn the car and position itself back to the center of the lane.
 ## Technology used
